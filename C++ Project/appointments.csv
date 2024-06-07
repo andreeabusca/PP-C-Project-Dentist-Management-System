@@ -1,0 +1,7 @@
+Procedure,Time,CustomerEmail,Status,Dentist
+2,2024-08-20_12:00,adina@gmail.com,Approved,Cazacu_Dumitru
+3,2024-11-19_13:12,andreea@gmail.com,Approved,Cazacu_Dumitru
+2,2024-11-19_13:12,adina@gmail.com,Rejected,Cazacu_Dumitru
+1,2024-11-19_13:12,alexia@gmail.com,Approved,Bogdan_Octavian
+1,2024-08-14_12:00,ana2006@gmail.com,Rejected,Ardeleanu_Mircea
+4,2024-09-014_14:00,ana2003@gmail.com,Pending,Bogdan_Octavian
